@@ -21,7 +21,7 @@ namespace ReportUnit.Templates
     <title>ReportUnit</title>
     <!-- Materialize -->
     <link rel=""stylesheet"" href=""https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css"">
-    <link rel=""stylesheet"" href=""https://rawgit.com/petr-konopelko/Automation-Report-page/master/css/ReportUnitStyle.css"">
+    <link rel=""stylesheet"" href=""https://rawgit.com/petr-konopelko/HTMLxUnitGenerator/master/HTMLxUnitGenerator/Resources/ReportUnitStyle.css"">
     <!-- Fonts -->
     <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
 </head>
@@ -105,7 +105,7 @@ namespace ReportUnit.Templates
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Compiled and minified JavaScript -->
     <script src=""https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js""></script>
-    <script src=""https://rawgit.com/petr-konopelko/Automation-Report-page/master/js/Javascript.js"" type=""text/javascript""></script>
+    <script src=""https://rawgit.com/petr-konopelko/HTMLxUnitGenerator/master/HTMLxUnitGenerator/Resources/Javascript.js"" type=""text/javascript""></script>
 </body>
 </html>";
         }
