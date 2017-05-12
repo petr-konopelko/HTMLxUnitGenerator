@@ -10,7 +10,8 @@ namespace HTMLxUnitGenerator
 {
     class Program
     {
-        private static string USAGE = @"[INFO] Usage 1:  ReportUnit 'path-to-folder'\n
+        private static string USAGE = @"\n
+                                        [INFO] Usage 1:  ReportUnit 'path-to-folder'\n
                                         [INFO] Usage 2:  ReportUnit 'input.xml'\n
                                         [INFO] Usage 3:  ReportUnit 'input-folder' 'output-folder'\n
                                         [INFO] Usage 4:  ReportUnit 'input.xml' 'output.html'";

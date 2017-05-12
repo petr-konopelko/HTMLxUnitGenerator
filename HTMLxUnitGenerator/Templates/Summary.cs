@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ReportUnit.Templates
+namespace HTMLxUnitGenerator.Templates
 {
     internal class Summary
     {
         public static string GetSource()
         {
             return @"
-@using ReportUnit.Model
-@using ReportUnit.Extensions
+@using HTMLxUnitGenerator.Model
+@using HTMLxUnitGenerator.Extensions
 @inherits RazorEngine.Templating.TemplateBase<CompositeTemplate>
 
 <!DOCTYPE html>

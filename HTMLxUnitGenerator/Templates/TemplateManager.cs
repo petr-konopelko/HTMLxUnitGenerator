@@ -1,4 +1,4 @@
-﻿using ReportUnit.Templates;
+﻿using HTMLxUnitGenerator.Templates;
 using System;
 using System.IO;
 using System.Text;
